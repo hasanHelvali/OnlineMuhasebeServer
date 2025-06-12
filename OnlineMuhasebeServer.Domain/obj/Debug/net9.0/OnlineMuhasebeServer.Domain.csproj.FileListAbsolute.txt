@@ -1,10 +1,12 @@
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\bin\Debug\net9.0\OnlineMuhasebeServer.Domain.deps.json
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\bin\Debug\net9.0\OnlineMuhasebeServer.Domain.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\bin\Debug\net9.0\OnlineMuhasebeServer.Domain.pdb
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\OnlineMuhasebeServer.Domain.csproj.AssemblyReference.cache
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\OnlineMuhasebeServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\OnlineMuhasebeServer.Domain.AssemblyInfoInputs.cache
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\OnlineMuhasebeServer.Domain.AssemblyInfo.cs
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\OnlineMuhasebeServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\OnlineMuhasebeServer.Domain.sourcelink.json
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\OnlineMuhasebeServer.Domain.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\refint\OnlineMuhasebeServer.Domain.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Domain\obj\Debug\net9.0\OnlineMuhasebeServer.Domain.pdb

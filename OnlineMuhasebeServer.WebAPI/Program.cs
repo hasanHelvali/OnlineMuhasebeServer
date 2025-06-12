@@ -2,9 +2,10 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.OpenApi.Models;
+using OnlineMuhasebeServer.Persistence.Context;
 using OnlineMuhasebeServer.Presentation;
 using System.Security.Cryptography.Xml;
-
+using Microsoft.EntityFrameworkCore;
 namespace OnlineMuhasebeServer.WebAPI
 {
     public class Program
@@ -46,6 +47,10 @@ namespace OnlineMuhasebeServer.WebAPI
                 #endregion
             );
 
+            builder.Services.AddDbContext<AppDbContext>(options=>options.UseSqlServer(
+                builder.Configuration.GetConnectionString("SqlServer")
+                ));
+               
             builder.Services.AddControllers()
                 .AddApplicationPart(typeof(AssemblyReference).Assembly);
             /*

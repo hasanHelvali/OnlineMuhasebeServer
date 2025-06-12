@@ -6,6 +6,7 @@ C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Present
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net9.0\OnlineMuhasebeServer.Presentation.AssemblyInfoInputs.cache
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net9.0\OnlineMuhasebeServer.Presentation.AssemblyInfo.cs
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net9.0\OnlineMuhasebeServer.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net9.0\OnlineMuhasebeServer.Presentation.sourcelink.json
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net9.0\OnlineMuhasebeServer.Presentation.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net9.0\refint\OnlineMuhasebeServer.Presentation.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Presentation\obj\Debug\net9.0\OnlineMuhasebeServer.Presentation.pdb
