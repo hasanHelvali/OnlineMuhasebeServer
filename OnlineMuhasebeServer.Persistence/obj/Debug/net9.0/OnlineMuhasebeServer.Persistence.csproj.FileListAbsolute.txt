@@ -2,7 +2,9 @@ C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persist
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\bin\Debug\net9.0\OnlineMuhasebeServer.Persistence.runtimeconfig.json
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\bin\Debug\net9.0\OnlineMuhasebeServer.Persistence.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\bin\Debug\net9.0\OnlineMuhasebeServer.Persistence.pdb
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\bin\Debug\net9.0\OnlineMuhasebeServer.Application.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\bin\Debug\net9.0\OnlineMuhasebeServer.Domain.dll
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\bin\Debug\net9.0\OnlineMuhasebeServer.Application.pdb
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\bin\Debug\net9.0\OnlineMuhasebeServer.Domain.pdb
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\obj\Debug\net9.0\OnlineMuhasebeServer.Persistence.csproj.AssemblyReference.cache
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Persistence\obj\Debug\net9.0\OnlineMuhasebeServer.Persistence.GeneratedMSBuildEditorConfig.editorconfig

@@ -14,7 +14,7 @@ namespace OnlineMuhasebeServer.Persistence.Context
     {
         private string connectionString = "";
         //private readonly AppDbContext? _appDbContext;
-        public CompanyDbContext(string companyId, Company company)
+        public CompanyDbContext(Company? company)
         {
             //_appDbContext = appDbContext;
             //company = _appDbContext.Companies.Find(companyId);
@@ -42,7 +42,7 @@ namespace OnlineMuhasebeServer.Persistence.Context
             public CompanyDbContext CreateDbContext(string[] args)
             {
                 //PM> add-migration company_database_olusturma -Context CompanyDbContext komutuna karsılık hata verdigi icin bu sekilde bir yapı kurulamsı gerekiyor.
-                return new CompanyDbContext("", null);
+                return new CompanyDbContext( null);
             }
         }
     }

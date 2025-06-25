@@ -1,11 +1,15 @@
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net9.0\OnlineMuhasebeServer.Application.deps.json
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net9.0\OnlineMuhasebeServer.Application.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net9.0\OnlineMuhasebeServer.Application.pdb
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net9.0\OnlineMuhasebeServer.Domain.dll
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\bin\Debug\net9.0\OnlineMuhasebeServer.Domain.pdb
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMuhasebeServer.Application.csproj.AssemblyReference.cache
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMuhasebeServer.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMuhasebeServer.Application.AssemblyInfoInputs.cache
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMuhasebeServer.Application.AssemblyInfo.cs
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMuhasebeServer.Application.csproj.CoreCompileInputs.cache
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMuhasebeServer.Application.sourcelink.json
+C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMu.DADEA74E.Up2Date
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMuhasebeServer.Application.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\refint\OnlineMuhasebeServer.Application.dll
 C:\Users\Hasan_Helvali\Desktop\OnlineMuhasebeServer\OnlineMuhasebeServer.Application\obj\Debug\net9.0\OnlineMuhasebeServer.Application.pdb

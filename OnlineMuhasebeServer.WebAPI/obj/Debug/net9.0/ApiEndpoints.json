@@ -1,12 +1,18 @@
 [
   {
-    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.TestController",
-    "Method": "Get",
-    "RelativePath": "api/Test",
-    "HttpMethod": "GET",
+    "ContainingType": "OnlineMuhasebeServer.WebAPI.Controllers.CompaniesController",
+    "Method": "CreateCompany",
+    "RelativePath": "api/Companies/CreateCompany",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "createCompanyRequest",
+        "Type": "OnlineMuhasebeServer.Application.Features.AppFeat\u0131ures.CompanyFeatures.Commands.CreateCompany.CreateCompanyRequest",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

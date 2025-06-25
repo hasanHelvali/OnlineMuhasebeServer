@@ -19,13 +19,13 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
-    },
-      "Logging": {
-        "LogLevel": {
-          "Default": "Debug",
-          "Microsoft.AspNetCore": "Debug"
-        }
-      }
-  }
-      "DetailedErrors": true
+    }
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "Microsoft.AspNetCore": "Debug"
+    }
+  },
+  "DetailedErrors": true
 }
