@@ -1,14 +1,14 @@
-
-using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using OnlineMuhasebeServer.Application.Services.AppServices;
+using OnlineMuhasebeServer.Domain;
 using OnlineMuhasebeServer.Domain.AppEntities.Identity;
+using OnlineMuhasebeServer.Domain.Repositories.UCAFRepositories;
+using OnlineMuhasebeServer.Persistence;
 using OnlineMuhasebeServer.Persistence.Context;
+using OnlineMuhasebeServer.Persistence.Repository.UCAFRepositories;
 using OnlineMuhasebeServer.Persistence.Services.AppServices;
-using OnlineMuhasebeServer.Presentation;
 namespace OnlineMuhasebeServer.WebAPI
 {
     public class Program
@@ -69,7 +69,7 @@ namespace OnlineMuhasebeServer.WebAPI
 
             builder.Services.AddAutoMapper(typeof(Persistence.AssemblyReference).Assembly);
             builder.Services.AddControllers()
-                .AddApplicationPart(typeof(AssemblyReference).Assembly);
+                .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
             /*
              Bu metod, ASP.NET Core'a baþka bir assembly'de bulunan controller'larý da yüklemesini söyler.
             Yani: Bu sýnýf hangi projede (DLL'de) tanýmlýysa, ASP.NET Core o DLL'deki controller'larý da tanýmaya baþlar.
@@ -78,8 +78,12 @@ namespace OnlineMuhasebeServer.WebAPI
 
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddScoped<ICompanyService, CompanyServices>();
+
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             var app = builder.Build();
 
+            builder.Services.AddScoped<IUCAFCommandRepository, UCAFCommandRepository>();
+            builder.Services.AddScoped<IUCAFQueryRepository, UCAFQueryRepository>();
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
