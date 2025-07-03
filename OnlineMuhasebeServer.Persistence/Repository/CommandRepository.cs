@@ -7,14 +7,14 @@ namespace OnlineMuhasebeServer.Persistence.Repository
 {
     public class CommandRepository<T> : ICommandRepository<T> where T : Entity
     {
-        private CompanyDbContext _companyDbContext;
+        private CompanyDbContext _companyDbContext; 
 
         private static readonly Func<CompanyDbContext, string, Task<T>> GetByIdCompiled = EF.CompileAsyncQuery((CompanyDbContext dbContext, string id) =>
         dbContext.Set<T>().FirstOrDefault(p => p.Id == id));
         public DbSet<T> Entity { get; set; }
 
 
-        public void CreateDbContextInstance(DbContext context)//Context bruadan alınır
+        public void SetDbContextInstance(DbContext context)//Context bruadan alınır
         {
             _companyDbContext = (CompanyDbContext)context;//instance i uretilir.
             Entity=_companyDbContext.Set<T>();

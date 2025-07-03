@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using OnlineMuhasebeServer.Application.Services.AppServices;
+using OnlineMuhasebeServer.Application.Services.CompanyServices;
 using OnlineMuhasebeServer.Domain;
 using OnlineMuhasebeServer.Domain.AppEntities.Identity;
 using OnlineMuhasebeServer.Domain.Repositories.UCAFRepositories;
@@ -9,6 +10,7 @@ using OnlineMuhasebeServer.Persistence;
 using OnlineMuhasebeServer.Persistence.Context;
 using OnlineMuhasebeServer.Persistence.Repository.UCAFRepositories;
 using OnlineMuhasebeServer.Persistence.Services.AppServices;
+using OnlineMuhasebeServer.Persistence.Services.CompanyServices;
 namespace OnlineMuhasebeServer.WebAPI
 {
     public class Program
@@ -80,10 +82,12 @@ namespace OnlineMuhasebeServer.WebAPI
             builder.Services.AddScoped<ICompanyService, CompanyServices>();
 
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-            var app = builder.Build();
-
+            builder.Services.AddScoped<IUCAFService, UCAFService>();
             builder.Services.AddScoped<IUCAFCommandRepository, UCAFCommandRepository>();
             builder.Services.AddScoped<IUCAFQueryRepository, UCAFQueryRepository>();
+            builder.Services.AddScoped<IContextService, ContextService>();
+            var app = builder.Build();
+
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {

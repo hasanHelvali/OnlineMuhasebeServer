@@ -4,12 +4,6 @@ using OnlineMuhasebeServer.Application.Features.AppFeatıures.CompanyFeatures.Co
 using OnlineMuhasebeServer.Application.Services.AppServices;
 using OnlineMuhasebeServer.Domain.AppEntities;
 using OnlineMuhasebeServer.Persistence.Context;
-using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnlineMuhasebeServer.Persistence.Services.AppServices
 {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineMuhasebeServer.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6924cf6f0004223669c8349c41a8be95c99883f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08dc4c34dee4445a767c3d09ccc088fd36c86c57")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineMuhasebeServer.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineMuhasebeServer.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

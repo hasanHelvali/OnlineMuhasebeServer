@@ -23,7 +23,7 @@ namespace OnlineMuhasebeServer.Presentation.Controller
             return Ok(createCompanyResponse);
         }
 
-        [HttpGet("[ation]")]
+        [HttpGet("[action]")]
         //public async Task<IActionResult> MigrateCompanyDatabases(MigrateCompanyDatabasesRequest migrateCompanyDatabasesRequest)
         public async Task<IActionResult> MigrateCompanyDatabases( )
         {

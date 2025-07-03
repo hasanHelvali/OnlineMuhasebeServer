@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "OnlineMuhasebeServer.WebAPI.Controllers.CompaniesController",
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.CompaniesController",
     "Method": "CreateCompany",
     "RelativePath": "api/Companies/CreateCompany",
     "HttpMethod": "POST",
@@ -10,6 +10,32 @@
       {
         "Name": "createCompanyRequest",
         "Type": "OnlineMuhasebeServer.Application.Features.AppFeat\u0131ures.CompanyFeatures.Commands.CreateCompany.CreateCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.CompaniesController",
+    "Method": "MigrateCompanyDatabases",
+    "RelativePath": "api/Companies/MigrateCompanyDatabases",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineMuhasebeServer.Presentation.Controller.UCAFsController",
+    "Method": "CreateUCAF",
+    "RelativePath": "api/UCAFs/CreateUCAF",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createUCAFRequest",
+        "Type": "OnlineMuhasebeServer.Application.Features.CompanyFeatures.Commands.CerateUCAF.CreateUCAFRequest",
         "IsRequired": true
       }
     ],

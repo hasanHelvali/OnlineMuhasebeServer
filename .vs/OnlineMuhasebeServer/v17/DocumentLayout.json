@@ -3,56 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7071FEC8-1247-429F-AB25-3BED3D58C182}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\cerateucaf\\createucafrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7071FEC8-1247-429F-AB25-3BED3D58C182}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\cerateucaf\\createucafrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6615EBD5-FC67-4F08-ABF7-2CA09658FCB2}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\ucafscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6615EBD5-FC67-4F08-ABF7-2CA09658FCB2}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\ucafscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071FEC8-1247-429F-AB25-3BED3D58C182}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\cerateucaf\\createucafhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071FEC8-1247-429F-AB25-3BED3D58C182}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\cerateucaf\\createucafhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\services\\companyservices\\ucafservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\services\\companyservices\\ucafservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\repository\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\repository\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\icontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\icontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\contextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\contextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{903F79E5-D760-4020-AEF1-A654BA89F666}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{903F79E5-D760-4020-AEF1-A654BA89F666}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\repository\\ucafrepositories\\ucafqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\repository\\ucafrepositories\\ucafqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6615EBD5-FC67-4F08-ABF7-2CA09658FCB2}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\abstraction\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6615EBD5-FC67-4F08-ABF7-2CA09658FCB2}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\abstraction\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\repositories\\ucafrepositories\\iucafqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\repositories\\ucafrepositories\\iucafqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7071FEC8-1247-429F-AB25-3BED3D58C182}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\cerateucaf\\createucafrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071FEC8-1247-429F-AB25-3BED3D58C182}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\cerateucaf\\createucafrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\repository\\ucafrepositories\\ucafcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\repository\\ucafrepositories\\ucafcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6615EBD5-FC67-4F08-ABF7-2CA09658FCB2}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.presentation\\controller\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6615EBD5-FC67-4F08-ABF7-2CA09658FCB2}|OnlineMuhasebeServer.Presentation\\OnlineMuhasebeServer.Presentation.csproj|solutionrelative:onlinemuhasebeserver.presentation\\controller\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\repositories\\ucafrepositories\\iucafcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\repositories\\ucafrepositories\\iucafcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\services\\appservices\\companyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\services\\appservices\\companyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\repositories\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\repositories\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{903F79E5-D760-4020-AEF1-A654BA89F666}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{903F79E5-D760-4020-AEF1-A654BA89F666}|OnlineMuhasebeServer.WebAPI\\OnlineMuhasebeServer.WebAPI.csproj|solutionrelative:onlinemuhasebeserver.webapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Migrations\\CompanyDb\\20250703210422_ucaf_CompanyId_Kald\u0131r\u0131ld\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineMuhasebeServer.Persistence\\Migrations\\CompanyDb\\20250703210422_ucaf_CompanyId_Kald\u0131r\u0131ld\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\repository\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\repository\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.persistence\\repository\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE8FF83-8B65-4E66-A0FC-9D782EF93328}|OnlineMuhasebeServer.Persistence\\OnlineMuhasebeServer.Persistence.csproj|solutionrelative:onlinemuhasebeserver.persistence\\repository\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\hasan_helvali\\desktop\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\companyentities\\uniformchartofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30C3F47-1B2A-408D-BC11-40E63062E660}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\companyentities\\uniformchartofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,175 +74,216 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateUCAFRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFRequest.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFRequest.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFRequest.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:34:55.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UCAFQueryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Repository\\UCAFRepositories\\UCAFQueryRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Repository\\UCAFRepositories\\UCAFQueryRepository.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Repository\\UCAFRepositories\\UCAFQueryRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Repository\\UCAFRepositories\\UCAFQueryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Title": "UCAFService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Services\\CompanyServices\\UCAFService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Services\\CompanyServices\\UCAFService.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Services\\CompanyServices\\UCAFService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Services\\CompanyServices\\UCAFService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:31:27.782Z",
+              "WhenOpened": "2025-07-03T20:01:48.062Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UCAFCommandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Repository\\UCAFRepositories\\UCAFCommandRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Repository\\UCAFRepositories\\UCAFCommandRepository.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Repository\\UCAFRepositories\\UCAFCommandRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Repository\\UCAFRepositories\\UCAFCommandRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UCAFsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\UCAFsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:29:27.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUCAFQueryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\UCAFRepositories\\IUCAFQueryRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\Repositories\\UCAFRepositories\\IUCAFQueryRepository.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\UCAFRepositories\\IUCAFQueryRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Repositories\\UCAFRepositories\\IUCAFQueryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:28:20.861Z",
+              "WhenOpened": "2025-07-03T20:19:32.246Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUCAFCommandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\UCAFRepositories\\IUCAFCommandRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\Repositories\\UCAFRepositories\\IUCAFCommandRepository.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\UCAFRepositories\\IUCAFCommandRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Repositories\\UCAFRepositories\\IUCAFCommandRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Title": "ContextService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\ContextService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\ContextService.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\ContextService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\ContextService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:27:16.351Z",
+              "WhenOpened": "2025-07-03T19:58:41.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Program.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwFUAAABQAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IContextService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\IContextService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\IContextService.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\IContextService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\IContextService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:22:55.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CompaniesController.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Controllers\\CompaniesController.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Controllers\\CompaniesController.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Controllers\\CompaniesController.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Controllers\\CompaniesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:22:45.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\UnitOfWork.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:19:50.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:18:42.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\IUnitOfWork.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:18:11.402Z",
+              "WhenOpened": "2025-07-03T20:04:22.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ICommandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\ICommandRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\Repositories\\ICommandRepository.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\Repositories\\ICommandRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\Repositories\\ICommandRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Context\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Context\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Context\\CompanyDbContext.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Context\\CompanyDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAjwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:09:44.678Z",
+              "WhenOpened": "2025-07-03T21:36:04.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "CommandRepository.cs",
               "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Repository\\CommandRepository.cs",
               "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Repository\\CommandRepository.cs",
               "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Repository\\CommandRepository.cs",
               "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Repository\\CommandRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:09:26.719Z",
+              "WhenOpened": "2025-07-03T20:28:43.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUCAFHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFHandler.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:25:03.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:37:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.WebAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA2wFUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:01:02.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Abstraction\\ApiController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Abstraction\\ApiController.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Abstraction\\ApiController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Abstraction\\ApiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:44:07.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUCAFRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFRequest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFRequest.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFRequest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CerateUCAF\\CreateUCAFRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:04:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Services\\AppServices\\CompanyServices.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Services\\AppServices\\CompanyServices.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Services\\AppServices\\CompanyServices.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Services\\AppServices\\CompanyServices.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:06:16.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "QueryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Repository\\QueryRepository.cs",
-              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Repository\\QueryRepository.cs",
-              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Repository\\QueryRepository.cs",
-              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Repository\\QueryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Presentation\\Controller\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Presentation\\Controller\\CompaniesController.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Presentation\\Controller\\CompaniesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:06:23.289Z",
+              "WhenOpened": "2025-07-03T20:55:57.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:10:54.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250703210422_ucaf_CompanyId_Kald\u0131r\u0131ld\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Migrations\\CompanyDb\\20250703210422_ucaf_CompanyId_Kald\u0131r\u0131ld\u0131.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistence\\Migrations\\CompanyDb\\20250703210422_ucaf_CompanyId_Kald\u0131r\u0131ld\u0131.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistence\\Migrations\\CompanyDb\\20250703210422_ucaf_CompanyId_Kald\u0131r\u0131ld\u0131.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistence\\Migrations\\CompanyDb\\20250703210422_ucaf_CompanyId_Kald\u0131r\u0131ld\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:04:22.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UniformChartOfAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
+              "ToolTip": "C:\\Users\\Hasan_Helvali\\Desktop\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:01:44.263Z",
               "EditorCaption": ""
             }
           ]

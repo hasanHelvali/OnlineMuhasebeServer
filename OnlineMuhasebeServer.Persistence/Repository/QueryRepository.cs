@@ -21,7 +21,7 @@ dbContext.Set<T>().FirstOrDefault());
             Expression<Func<T, bool>> expression) =>
 dbContext.Set<T>().FirstOrDefault(expression));
 
-        public void CreateDbContextInstance(DbContext context)
+        public void SetDbContextInstance(DbContext context)
         {
             _companyDbContext = (CompanyDbContext)context;
             Entity = _companyDbContext.Set<T>();
